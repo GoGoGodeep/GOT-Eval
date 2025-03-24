@@ -1,6 +1,6 @@
 # GOT-Eval
 
-### 基于源码，增加部分代码用于更好的显示模型的推理结果  
+### 基于源码（https://github.com/Ucas-HaoranWei/GOT-OCR2.0），增加部分代码用于更好的显示模型的推理结果  
 
 process.py：对原图进行裁剪，获取ocr区域  
 paint_result.py：根据ocr的result.txt文件在图片上绘制结果  
