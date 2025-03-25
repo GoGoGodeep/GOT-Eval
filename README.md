@@ -2,7 +2,7 @@
 
 基于GOT-OCR 2.0的增强版本，优化了模型推理结果的可视化效果  
 
-## ✨修改内容  
+## ✨ 修改内容  
 
 在原版代码[Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)的基础上，新增了以下功能以实现更直观的结果展示：  
 
@@ -20,7 +20,7 @@
 4. **GOT_ocr_2_0.py**（路径：`GOT-OCR-2.0-master/GOT/model/GOT_ocr_2_0.py`）  
    - 新增置信度计算与缓存功能（267-269行）  
 
-## 🌟使用说明  
+## 🌟 使用说明  
 
 1. 使用`process.py`预处理图像，提取OCR识别区域  
 2. 运行OCR推理，生成结果文件  
